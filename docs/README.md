@@ -1,6 +1,9 @@
 # Bienvenida
 
 Hola, esta es la documentación que ayudará en la administración del sitio web institucional del [Cuerpo de Bomberos de Talca](https://bomberostalca.cl), recordamos que cualquier duda o requerimiento adicional, puede ser solicitada al desarrollador del sitio, previa autorización de la Superintendencia.
+Es indispensable mencionar que el sitio está desarrollado bajo el entorno WordPress, el cual permite una administración de contenidos de forma amigable e intuitiva.
+
+¿Qué es WordPress? Puedes ver una breve descripción en su sitio web oficial.
 
 # Páginas del Sitio
 
@@ -19,6 +22,6 @@ Esta página es la que verán los visitantes al ingresar a la URL https://bomber
 ## Noticias
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE5NzE3MzUxLDY0MjEzMjI3NSwxNzk5Nz
-Y0MzM4XX0=
+eyJoaXN0b3J5IjpbMTYzNDczNTA1Miw2MTk3MTczNTEsNjQyMT
+MyMjc1LDE3OTk3NjQzMzhdfQ==
 -->
