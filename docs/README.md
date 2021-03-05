@@ -5,6 +5,9 @@ Es indispensable mencionar que el sitio está desarrollado bajo el entorno WordP
 
 ¿Qué es WordPress? Puedes ver una breve descripción en su [sitio web oficial](https://es.wordpress.org/).
 
+Las funcionalidades de WordPress en general 
+
+
 # Páginas del Sitio
 
 ## Inicio
@@ -22,6 +25,6 @@ Esta página es la que verán los visitantes al ingresar a la URL https://bomber
 ## Noticias
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM4NDc4MDY0LDYxOTcxNzM1MSw2NDIxMz
-IyNzUsMTc5OTc2NDMzOF19
+eyJoaXN0b3J5IjpbMTgxODA3NzMwMiw2MTk3MTczNTEsNjQyMT
+MyMjc1LDE3OTk3NjQzMzhdfQ==
 -->
