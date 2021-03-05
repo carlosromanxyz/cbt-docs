@@ -5,8 +5,12 @@ Es indispensable mencionar que el sitio está desarrollado bajo el entorno WordP
 
 ¿Qué es WordPress? Puedes ver una breve descripción en su [sitio web oficial](https://es.wordpress.org/).
 
-Las funcionalidades de WordPress en general 
+Las funcionalidades de WordPress en general no se han tocado, sin embargo se añadieron nuevos tipos de contenidos, para una mejor organización del sitio, esos tipos de contenido son:
 
+ - Compañías
+ - Autoridades
+ - Galerías
+ - N
 
 # Páginas del Sitio
 
@@ -25,6 +29,6 @@ Esta página es la que verán los visitantes al ingresar a la URL https://bomber
 ## Noticias
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxODA3NzMwMiw2MTk3MTczNTEsNjQyMT
-MyMjc1LDE3OTk3NjQzMzhdfQ==
+eyJoaXN0b3J5IjpbMTkwMjY0OTA3MywxODE4MDc3MzAyLDYxOT
+cxNzM1MSw2NDIxMzIyNzUsMTc5OTc2NDMzOF19
 -->
