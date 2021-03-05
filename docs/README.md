@@ -8,7 +8,7 @@ Hola, esta es la documentación que ayudará en la administración del sitio web
 Esta página es la que verán los visitantes al ingresar a la URL https://bomberostalca.cl, esta página contiene gran parte del contenido del sitio, el cual se alimenta de los contenidos que se ingresan a través del administrador del sitio. Esta página contiene secciones como:
 
  - **Noticias destacadas:** Son las noticias que se destacan de las otras, estas obtienen su característica de "destacada" al ser ingresadas o editadas mediante un botón debidamente señalado. 
- - Carrusel de compañías:
+ - **Carrusel de compañías:** Componente que muestra todas las compañías vigentes del Cuerpo de Bomberos de Talca, estas se deslizan de derecha a izquierda, actualmente hay `9` de ellas activas.
 
 ## Cuerpo
 
@@ -19,5 +19,6 @@ Esta página es la que verán los visitantes al ingresar a la URL https://bomber
 ## Noticias
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQyMTMyMjc1LDE3OTk3NjQzMzhdfQ==
+eyJoaXN0b3J5IjpbNjE5NzE3MzUxLDY0MjEzMjI3NSwxNzk5Nz
+Y0MzM4XX0=
 -->
