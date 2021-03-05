@@ -6,7 +6,7 @@ Es indispensable mencionar que el sitio está desarrollado bajo el entorno WordP
 
 ¿Qué es WordPress? Puedes ver una breve descripción en su [sitio web oficial](https://es.wordpress.org/).
 
-Las funcionalidades de WordPress en general no se han manipulado, sin embargo se añadieron nuevos tipos de contenidos (Custom Post Types), para una mejor organización del sitio, esos tipos de contenido son:
+Las funcionalidades de WordPress en general no se han manipulado, sin embargo se añadieron nuevos tipos de contenidos (Custom Post Types), para una mejor organización del contenido, esos tipos de contenido son:
 
 `Compañías`, `Autoridades`, `Galerías`, `Noticias`, `Mártires`, `Videos` y otros que -de momento- no están en funcionamiento.
 
