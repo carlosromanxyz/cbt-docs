@@ -10,7 +10,9 @@ Las funcionalidades de WordPress en general no se han tocado, sin embargo se añ
  - Compañías
  - Autoridades
  - Galerías
- - N
+ - Noticias
+ - Mártires
+ - Videos
 
 # Páginas del Sitio
 
@@ -29,6 +31,6 @@ Esta página es la que verán los visitantes al ingresar a la URL https://bomber
 ## Noticias
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMjY0OTA3MywxODE4MDc3MzAyLDYxOT
-cxNzM1MSw2NDIxMzIyNzUsMTc5OTc2NDMzOF19
+eyJoaXN0b3J5IjpbLTIwMDAyMjc4MjAsMTgxODA3NzMwMiw2MT
+k3MTczNTEsNjQyMTMyMjc1LDE3OTk3NjQzMzhdfQ==
 -->
