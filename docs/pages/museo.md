@@ -1,0 +1,1 @@
+Esta página no reviste mayor complejidad en su edición, puesto que se deberá -en la barra de herramientas- seleccionar la opción "Editar página" y seguir las instrucciones de pantalla.
