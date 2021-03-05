@@ -8,9 +8,9 @@ Es indispensable mencionar que el sitio está desarrollado bajo el entorno WordP
 
 Las funcionalidades de WordPress en general no se han manipulado, sin embargo se añadieron nuevos tipos de contenidos (Custom Post Types), para una mejor organización del sitio, esos tipos de contenido son:
 
-`Compañías`, `Autoridades`, `Galerías`, `Noticias`, `Mártires`, `Videos` y otros que aún 
+`Compañías`, `Autoridades`, `Galerías`, `Noticias`, `Mártires`, `Videos` y otros que -de momento- no están en funcionamiento
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MTUzMTE0MywyMDMzODM4MTAsLTcwOD
-c4MjUzNCwxODE4MDc3MzAyLDYxOTcxNzM1MSw2NDIxMzIyNzUs
-MTc5OTc2NDMzOF19
+eyJoaXN0b3J5IjpbLTE2ODU1MzIwODYsMjAzMzgzODEwLC03MD
+g3ODI1MzQsMTgxODA3NzMwMiw2MTk3MTczNTEsNjQyMTMyMjc1
+LDE3OTk3NjQzMzhdfQ==
 -->
