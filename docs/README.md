@@ -5,7 +5,10 @@ Hola, esta es la documentación que ayudará en la administración del sitio web
 # Páginas del Sitio
 
 ## Inicio
-Esta página es la que verán los visitantes al ingresar a la URL https://bomberostalca.
+Esta página es la que verán los visitantes al ingresar a la URL https://bomberostalca.cl, esta página contiene gran parte del contenido del sitio, el cual se alimenta de los contenidos que se ingresan a través del administrador del sitio. Esta página contiene secciones como:
+
+ - Noticias destacadas
+ - 
 
 ## Cuerpo
 
@@ -16,5 +19,5 @@ Esta página es la que verán los visitantes al ingresar a la URL https://bomber
 ## Noticias
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkwNTcwOTIsMTc5OTc2NDMzOF19
+eyJoaXN0b3J5IjpbLTE0MjI4OTg5NDgsMTc5OTc2NDMzOF19
 -->
