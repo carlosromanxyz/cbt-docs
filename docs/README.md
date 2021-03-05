@@ -7,12 +7,7 @@ Es indispensable mencionar que el sitio está desarrollado bajo el entorno WordP
 
 Las funcionalidades de WordPress en general no se han tocado, sin embargo se añadieron nuevos tipos de contenidos, para una mejor organización del sitio, esos tipos de contenido son:
 
- - Compañías
- - Autoridades
- - Galerías
- - Noticias
- - Mártires
- - Videos
+`Compañías`, `Autoridades`, `Galerías`, `Noticias`, `Mártires`, `Videos`
 
 # Páginas del Sitio
 
@@ -31,6 +26,6 @@ Esta página es la que verán los visitantes al ingresar a la URL https://bomber
 ## Noticias
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDAyMjc4MjAsMTgxODA3NzMwMiw2MT
-k3MTczNTEsNjQyMTMyMjc1LDE3OTk3NjQzMzhdfQ==
+eyJoaXN0b3J5IjpbLTcwODc4MjUzNCwxODE4MDc3MzAyLDYxOT
+cxNzM1MSw2NDIxMzIyNzUsMTc5OTc2NDMzOF19
 -->
