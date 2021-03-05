@@ -5,6 +5,7 @@ Hola, esta es la documentación que ayudará en la administración del sitio web
 # Páginas del Sitio
 
 ## Inicio
+Esta página es la que verán los visitantes al ingresar a la URL https://bomberostalca.
 
 ## Cuerpo
 
@@ -15,5 +16,5 @@ Hola, esta es la documentación que ayudará en la administración del sitio web
 ## Noticias
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUwNzA1Njk3LDE3OTk3NjQzMzhdfQ==
+eyJoaXN0b3J5IjpbODkwNTcwOTIsMTc5OTc2NDMzOF19
 -->
