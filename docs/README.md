@@ -63,5 +63,3 @@ Dentro encontramos campos de formualarios que debemos llenar ya que esos son par
 ## Versionamiento de este manual
 
 Este manual podría estar sujeto a modificaciones a raíz de actualizaciones y nuevas funcionalidades que se pudiesen implementar a futuro, por lo que se sugiere consultarlo cada vez que se quiera realizar una acción dentro del sitio.
-
-Test
