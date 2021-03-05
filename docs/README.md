@@ -4,12 +4,16 @@ Hola, esta es la documentación que ayudará en la administración del sitio web
 
 # Páginas del Sitio
 
-# Inicio
+## Inicio
 
-Cuerpo
-Autoridades
-Compañías
-Noticias
+## Cuerpo
+
+## Autoridades
+
+## Compañías
+
+## Noticias
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODMwMzQ0ODIsMTc5OTc2NDMzOF19
+eyJoaXN0b3J5IjpbODUwNzA1Njk3LDE3OTk3NjQzMzhdfQ==
 -->
