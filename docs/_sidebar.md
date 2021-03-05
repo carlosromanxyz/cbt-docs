@@ -1,2 +1,2 @@
 * [Bienvenida](/ "CBT - Manual de administración del sitio web institucional")
-* [Información del Sitio](information.md)
+* [Páginas del Sitio](pages.md "CBT - Páginas del sitio web")
