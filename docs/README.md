@@ -7,8 +7,8 @@ Hola, esta es la documentación que ayudará en la administración del sitio web
 ## Inicio
 Esta página es la que verán los visitantes al ingresar a la URL https://bomberostalca.cl, esta página contiene gran parte del contenido del sitio, el cual se alimenta de los contenidos que se ingresan a través del administrador del sitio. Esta página contiene secciones como:
 
- - Noticias destacadas
- - 
+ - **Noticias destacadas:** Son las noticias que se destacan de las otras, estas obtienen su característica de "destacada" al ser ingresadas o editadas mediante un b 
+ - Carrusel de compañías
 
 ## Cuerpo
 
@@ -19,5 +19,5 @@ Esta página es la que verán los visitantes al ingresar a la URL https://bomber
 ## Noticias
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjI4OTg5NDgsMTc5OTc2NDMzOF19
+eyJoaXN0b3J5IjpbLTczNDg0OTUwMSwxNzk5NzY0MzM4XX0=
 -->
